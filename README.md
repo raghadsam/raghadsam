@@ -1,5 +1,5 @@
 ### Hello there 👋
-I'm a Junior Full Stack Developer💻 and an Engineering Student😃
+I'm a Junior Full Stack Developer 💻 and an Engineering Student 😃
 <!--
 **raghadsam/raghadsam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
