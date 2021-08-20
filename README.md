@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm a Junior Full Stack Developer💻 and an Engineering student😃
 <!--
 **raghadsam/raghadsam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Let's get in touch 😎! </br>
+&nbsp; &nbsp; &nbsp;  [LinkedIn](www.linkedin.com/in/raghad-al-samrout) </br>
+&nbsp; &nbsp;  &nbsp; raghadsamrout@ieee.org
+    
