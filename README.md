@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Let's get in touch 😎! </br>
-&nbsp; &nbsp; &nbsp;  [LinkedIn]: www.linkedin.com/in/raghad-al-samrout </br>
+&nbsp; &nbsp; &nbsp;  [LinkedIn](www.linkedin.com/in/raghad-al-samrout) </br>
 &nbsp; &nbsp;  &nbsp; raghadsamrout@ieee.org
     
