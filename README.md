@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 Let's get in touch 😎! </br>
 &nbsp; &nbsp; &nbsp;  [LinkedIn](https://www.linkedin.com/in/raghad-al-samrout)
- </br> &nbsp; &nbsp;  &nbsp; raghadsamrout@ieee.org
+ </br> &nbsp; &nbsp;  &nbsp; raghad77samrout@gmail.com
     
