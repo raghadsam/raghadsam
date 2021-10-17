@@ -1,4 +1,4 @@
-### Hello there ![](Hello (2).gif)
+### Hello there ![](Hello(2).gif)
 I'm a Web Developer 💻 and an Engineering Student 😃
 <!--
 **raghadsam/raghadsam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
