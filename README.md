@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 Let's get in touch 😎! </br>
 &nbsp; &nbsp; &nbsp;  [LinkedIn](https://www.linkedin.com/in/raghad-al-samrout)
  </br> &nbsp; &nbsp;  &nbsp; raghad77samrout@gmail.com
-    <iframe src="https://giphy.com/embed/kEWaYdvMwTIduesqGe" width="480" height="396" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/UAX-design-pgatour-uaxdesign-kEWaYdvMwTIduesqGe">via GIPHY</a></p>
