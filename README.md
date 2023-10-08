@@ -1,5 +1,5 @@
 ## Hello there ![](Hello.gif)
-I'm a Web Developer 💻 and an Engineering Student 😃
+
 <!--
 **raghadsam/raghadsam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Let's get in touch 😎! </br>
-&nbsp; &nbsp; &nbsp;  [LinkedIn](https://www.linkedin.com/in/raghad-al-samrout)
- </br> &nbsp; &nbsp;  &nbsp; raghad77samrout@gmail.com
